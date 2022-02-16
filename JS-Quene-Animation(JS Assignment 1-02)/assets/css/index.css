@@ -52,3 +52,10 @@ div {
 #six {
     top: 130px;
 }
+
+#H1-1{
+    position: absolute;
+    top: 32vh;
+    font-family: 'Ubuntu Mono', monospace;
+    color: #9b59b6;
+}
